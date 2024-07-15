@@ -60,16 +60,12 @@ public class Principal {
             var textoMenu = """
                 \n ==============Menu===================  
                 
-                 1. Buscar libro por nombre
-                 2. buscar libros por autor
-                 3. buscar autor por  guardado
+                 1. Buscar libro por Titulo
+                 2. listar libro por registrados
+                 3. listar autores registrados
                  4. Listar autor vivos en un determinado año
-                 5. Listar libro por idioma               
-                 6. buscar  libro  por guardado
-                
-                       \s
+                 5. Listar libro por idioma            
                  0. Salir
-                \n
                 
                \s""";
 
